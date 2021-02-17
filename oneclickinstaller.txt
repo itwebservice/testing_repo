@@ -1,0 +1,16 @@
+Today done with modifications for
+v7>>Oneclick installer:GIT(itwebservice/oneclickinstaller)
+#Remove country -- Done
+#Remove Tax field --Done
+#Setup type options rename 'IToursGlobal' to 'IToursGlobal(B2B)' --Done
+#For setup type 4 create Tours_B2B folder only --Done
+#Add checkbox for B2C, if selected then update b2c_flag to 1 --Done
+ 
+#Master data to add :
+1.Company profile data
+	Company name, Website, Contant no, Address, Tax name, Default curreny, Currency rate, Country,State
+2.ROE
+3.Financial year : From-To date
+4.Location, Branch name, Contant no, State
+
+
